@@ -1,0 +1,45 @@
+.about-section{
+    display: flex;
+    padding: 2rem;
+}
+
+.img-container{
+    width: 40%;
+
+}
+
+#about-img{
+    width: 80%;
+}
+
+.description-container{
+width: 60%;
+flex-direction: column;
+}
+
+.description-container p{
+    width: 80%;
+    margin: 4rem 0;
+}
+
+.skills-list{
+    flex-direction: column;
+}
+
+.skills{
+    width: 70%;
+    padding: 2rem;
+    gap: 2rem 2rem;
+    flex-wrap: wrap;
+}
+
+.skills label{
+    cursor: initial;
+    color: var(--accent-color);
+    background-color: var(--accent-color-shade);
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    border-radius: 5%;
+    font-weight: 600;
+}
