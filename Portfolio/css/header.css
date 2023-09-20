@@ -56,31 +56,3 @@ label {
 /* Responsive Design  */
 
 
-/* Mobile View */
-@media (max-width: 640px) {
-
-    header {
-        flex-direction: column;
-        height: max-content;
-        padding: 2%;
-    }
-
-    .nav-link{
-        flex-direction: column;
-    }
-
-    .nav-btn {
-        display: inline-block;
-    }
-
-    /* Toggle function */
-    #nav-check:not(:checked)~.nav-link{
-        height: 0px;
-        overflow:hidden;
-    }
-
-    #nav-check:checked~.nav-link{
-        height: auto;
-        overflow: auto;
-    }
-}
