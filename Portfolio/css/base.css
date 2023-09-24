@@ -1,11 +1,12 @@
 /* Varibles
 Styles that we can use/ reuse*/
 :root {
-    --background-color: #011c32;
-    --header-color: #01223d;
-    --accent-color: #05d939;
-    --accent-color-shade: #025834;
-    --neutral-color: #e0e0e0;
+    --background-color: #d7d7d7;
+    --header-color: #807f33;
+    --footer-color: #807f33;
+    --accent-color: #807f33;
+    --accent-color-shade: #050504;
+    --neutral-color: #000000;
 
     --mono-font: 'DM Mono', monospace;
     --sans-font: 'DM Sans', sans-serif;

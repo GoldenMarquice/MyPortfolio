@@ -25,7 +25,6 @@ html{ font-size: 12px;}
 }
 
 .description-container{
-    background-color: rgb(177, 175, 130);
     width: auto;
 }
 
@@ -36,7 +35,6 @@ html{ font-size: 12px;}
 }
 
 .project-card a{
-    background-color: rebeccapurple;
     width: 100%;
     flex-direction: column;
     height: min-content;
@@ -79,4 +77,18 @@ html { font-size: 10px;}
         height: auto;
         overflow: auto;
     }
+}
+
+footer{
+    height: 20rem;
+    padding: 1rem;
+    flex-direction: column;
+}
+
+footer img{
+    margin: 2rem 0px;
+}
+
+footer nav{
+    height: fit-content;
 }

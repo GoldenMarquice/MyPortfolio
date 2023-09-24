@@ -1,26 +1,26 @@
 [
     {
-        "name": "First project",
-        "description": "This is the description of the first project",
-        "year": 2020,
-        "img": "../img/facebook.png",
-        "repository": "http://github.com/",
-        "technologies": ["HTML", "CSS", "JavaScript"]
+        "name": "StreetFighter Blog",
+        "description": "THis is a streetfighter blog project I made using Django framework. It is a simple blog used to create post ad users create new post and sign in and sign out functionality. This project utilizes a database, SqLite, HTML, CSS, and made with python.",
+        "year": 2023,
+        "img": "../img/StreetfighterblogScreenShot.png",
+        "repository": "https://github.com/GoldenMarquice/StreetFighter-Blog",
+        "technologies": ["HTML", "CSS", "JavaScript", "Django", "Git"]
     },
     {
-        "name": "Second project",
-        "description": "This is the description of the first project",
-        "year": 2020,
-        "img": "../img/login.jpg",
-        "repository": "http://github.com/",
-        "technologies": ["HTML", "CSS", "JavaScript","React"]
+        "name": "Task Manager",
+        "description": "This is a simple task Manager that users Authentication and Crud functions for Task tracking and completion",
+        "year": 2023,
+        "img": "../img/TaskManagerScreenshot.png",
+        "repository": "https://github.com/GoldenMarquice/SpecialTaskManager",
+        "technologies": ["HTML", "CSS", "JavaScript", "Django", "Git"]
     },
     {
-        "name": "Third project",
-        "description": "This is the description of the first project",
-        "year": 2020,
-        "img": "../img/editor.jpg",
-        "repository": "http://github.com/",
-        "technologies": ["HTML", "CSS", "JavaScript", "Django"]
+        "name": "GoodEats",
+        "description": "This is a Restaurants that serves good food using Crud functionality and servicing Cart where you can add and delete selections ",
+        "year": 2023,
+        "img": "../img/fried catfish.jpeg",
+        "repository": "https://github.com/GoldenMarquice/GoodEats",
+        "technologies": ["HTML", "CSS", "JavaScript","React", "Python"]
     }
 ]

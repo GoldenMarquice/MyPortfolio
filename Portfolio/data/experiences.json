@@ -1,0 +1,30 @@
+[
+    {
+        "entity": "SAN DIEGO GLOBAL KNOWLEDGE UNIVERSITY ",
+        "title": "Full Stack- Java Certification",
+        "description": "Software Development",
+        "period": "Month YYYY - Month YYYY",
+        "technologies": ["JAVA, REACT, HTML, SQL, CSS, DJango, Sqlite, Phyton"]
+    },
+    {
+        "entity": "Claim Academy",
+        "title": "Full Stack- Java Certification",
+        "description": "Software Development",
+        "period": "April 2022-October 2022",
+        "technologies": ["JAVA, HTML, SQL, CSS, J2EE, Hibernate, Spring"]
+    },
+    {
+        "entity": "University of Utah",
+        "title": "DAVID ECCLES SCHOOL OF BUSINESS, UNIVERSITY OF UTAH",
+        "description": "Masters of Science in Finance",
+        "period": "May 2014 - May 2017",
+        "technologies": ["Statistics for Finance, Cases in Fin Strategy, Excel for FINAN, Venture Planning, Credit Institutions, Financial Modeling, Read & Interp Fin Stmt, Principles of Sec Trade, Business Valuation"]
+    },
+    {
+        "entity": "EMBRY RIDDLE AERONAUTICAL UNIVERSITY",
+        "title": "Bachelor of Science",
+        "description": "Bachelors of Science empahsis in finance",
+        "period": " July 2011   December 2014",
+        "technologies": ["Technical Report Writing, Corporate Finance, Managerial Exonomics, Business Information Systems, Business Statistics, Business Law"]
+    }
+]
